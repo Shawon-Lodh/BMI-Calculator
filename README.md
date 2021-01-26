@@ -4,7 +4,7 @@
 
 A simple functionality and multi screen based Body Mass Index(BMI) Calculator that is full-on custom styling. This app is designed after inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator).
 
-![Finished App](https://github.com/Shawon-Lodh/BMI-Calculator/blob/main/quizzler.gif)
+![Finished App](https://github.com/Shawon-Lodh/BMI-Calculator/blob/main/bmi_calculator.gif)
 
 ## Language
 - Dart
